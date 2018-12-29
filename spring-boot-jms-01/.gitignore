@@ -1,1 +1,4 @@
 /target/
+/activemq-data/
+# ignore all logs
+*.log
